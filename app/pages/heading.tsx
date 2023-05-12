@@ -7,7 +7,7 @@ export default function Heading() {
       <CarouselHead />
       <div className="px-[10%] py-32 transition duration-500 ease-in-out">
         <div>
-          <h1 className="font-bold text-5xl text-sky-500">Masjid Al-Barokah</h1>
+          <h1 className="font-bold text-5xl text-white">Masjid Al-Barokah</h1>
           <p>Pesona Bali City View Residence Bandung</p>
         </div>
       </div>
